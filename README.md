@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zidin122/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/Zidin122/button.svg)](https://heroku.com/deploy?template=https://github.com/Zidin122/FileRenameBot)
 
 # Required Strings :-
 
